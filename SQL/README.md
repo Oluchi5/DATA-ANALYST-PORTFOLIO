@@ -1,4 +1,4 @@
-# DATA ANALYTICS WITH SQL
+### DATA ANALYTICS WITH SQL
 
 Welcome to the world of data analytics with SQL! In this repository, you will find a collection of projects and resources that showcase the power and versatility of SQL in data analysis.
 
