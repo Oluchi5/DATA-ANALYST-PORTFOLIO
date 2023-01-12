@@ -1,3 +1,4 @@
+### DATA ANALYTICS WITH PYTHON
 Welcome to the world of data analytics with Python! In this repository, you will find a collection of projects and resources that showcase the power and versatility of Python in data analysis.
 
 Python is a powerful and versatile programming language that is widely used in data analysis. It has a large ecosystem of libraries and frameworks that make it easy to perform complex data analysis tasks, such as data mining, data visualization, statistical modeling, and machine learning.
